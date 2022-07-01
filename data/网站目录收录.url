@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://www.jianzhanke.com/
+[DOC_aswift_0]
+BASEURL=http://www.jianzhanke.com/
+ORIGURL=
+[DOC_aswift_0_google_ads_frame1#96]
+BASEURL=http://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-0822819044646558&output=html&h=90&slotname=4632924684&adk=3272161151&adf=2753350270&w=970&lmt=1509541138&loeid=38893311&format=970x90&url=http%3A%2F%2Fwww.jianzhanke.com%2F&ea=0&flash=27.0.0.183&wgl=0&dt=1509541138343&bpp=16&fdt=94&idt=157&shv=r20171025&cbv=r20170110&saldr=aa&correlator=1382928583699&frm=20&ga_vid=307455944.1509541139&ga_sid=1509541139&ga_hid=1879873582&ga_fc=0&pv=2&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=480&u_his=1&u_java=1&u_h=1024&u_w=1280&u_ah=994&u_aw=1280&u_cd=32&u_nplug=0&u_nmime=0&adx=0&ady=237&biw=1259&bih=808&abxe=1&eid=38893301%2C21061122%2C33895411&oid=3&nmo=1&rx=0&eae=4&fc=16&docm=8&brdim=0%2C143%2C%2C%2C1280%2C%2C%2C%2C%2C&vis=0&rsz=%7C%7CeE%7C&abl=CS&ppjl=u&pfx=0&fu=1032&bc=0&ifi=1&dtd=344
+ORIGURL=
+[InternetShortcut]
+URL=http://www.jianzhanke.com/
+IDList=
+IconFile=http://www.jianzhanke.com/favicon.ico
+IconIndex=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
